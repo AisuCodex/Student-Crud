@@ -44,8 +44,8 @@ CREATE TABLE `student_info` (
 --
 
 INSERT INTO `student_info` (`id`, `id_number`, `name`, `birthday`, `age`, `gender`, `bloodtype`, `year_level`, `section`) VALUES
-(1, '619', 'Fatima Palisoc', '2003-12-25', 21, 'Female', 'o+', '3rd Year', '3A'),
-(2, '699', 'Marc Crisostomo', '2003-04-23', 21, 'Male', 'o+', '4thYear', '4A');
+(1, '619', 'pat pat', '2003-12-25', 21, 'Female', 'o+', '3rd Year', '3A'),
+(2, '699', 'AisuCodex', '2003-04-23', 21, 'Male', 'o+', '4thYear', '4A');
 
 --
 -- Indexes for dumped tables
